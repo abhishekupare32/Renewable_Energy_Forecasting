@@ -1,0 +1,12 @@
+country,year,solar_consumption,wind_consumption,hydro_consumption,biofuel_consumption,total_renewable_consumption
+India,2010,2,25,180,8,215
+India,2011,3,28,182,9,222
+India,2012,5,32,185,10,232
+India,2013,8,36,188,11,243
+India,2014,12,42,190,13,257
+India,2015,20,48,193,14,275
+India,2016,28,55,196,16,295
+India,2017,40,62,200,18,320
+India,2018,55,70,205,20,350
+India,2019,72,80,210,22,384
+India,2020,90,92,215,25,422
